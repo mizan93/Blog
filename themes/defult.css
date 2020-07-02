@@ -1,0 +1,38 @@
+/* default */
+
+.headersection {
+    background: #ca932f none repeat scroll 0 0;
+
+}
+
+.icon a {
+    background: #a56e0a none repeat scroll 0 0;
+
+}
+
+.searchbtn input[type="text"] {
+    background: #FFE07C;
+}
+
+.searchbtn input[type="submit"] {
+    background: #ca932f none repeat scroll 0 0;
+}
+
+.searchbtn input[type="submit"]:hover {
+    background: #b7801c none repeat scroll 0 0;
+    border: 1px solid #e6af4b;
+    color: #fff;
+}
+
+.navsection {
+    background: none repeat scroll 0 0 #e6af4b;
+    min-height: 38px;
+}
+
+.maincontent {
+    background: #fef4e5 none repeat scroll 0 0;
+}
+
+.sidebar {
+    background: #fef4e5 none repeat scroll 0 0;
+}
